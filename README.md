@@ -1,9 +1,9 @@
 <img align="left" style="margin-top:25px" width="60" height="60" src="Images/VendorLink.png">
 
-# VendorLink : Connecting Customers to Street vendors
+# TradeBridge : Connecting Customers to Street vendors
 
-<p style='text-align: justify;'>VendorLink is an Android mobile applictaion which acts as an aggregator platform and facilitates the relationship of customer & street vendors by eliminating problems faced by both parties.</p>
-<p style='text-align: justify;'>VendorLink mobile application is based on the concept of Hyperlocal-Ecommerce such that street vendors in close vicinity to customer are shown to the customer first. </p>
+<p style='text-align: justify;'>TradeBridge is an Android mobile applictaion which acts as an aggregator platform and facilitates the relationship of customer & street vendors by eliminating problems faced by both parties.</p>
+<p style='text-align: justify;'>TradeBridge mobile application is based on the concept of Hyperlocal-Ecommerce such that street vendors in close vicinity to customer are shown to the customer first. </p>
 
 
 ## Problem Definition✨
@@ -14,7 +14,7 @@
 
 ## Scope & Features 💡
 
-VendorLink application consists of a customer module and a Vendor Module.
+TradeBridge application consists of a customer module and a Vendor Module.
 ###  <u>Customer Module</u>:
     
 - <p style='text-align: justify;'> User first needs to Sign-Up and authenticate his/her Mobile no. via OTP.</p>
